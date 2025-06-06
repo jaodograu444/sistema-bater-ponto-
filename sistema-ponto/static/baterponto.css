@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    background-color: black;
+
+}
+button {
+    background: linear-gradient(to bottom, red, white);
+    height: 70px;
+    width: 250px;
+    font-weight: bolder;
+}
+
+.botao {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    /* Centraliza o botão */
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+
+
+}
+
+.botao1 {
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    /* Centraliza o botão */
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.botao2 {
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    /* Centraliza o botão */
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.botao3 {
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    /* Centraliza o botão */
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
